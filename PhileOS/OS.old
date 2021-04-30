@@ -1,0 +1,4 @@
+package.path = "/PhileOS/APIs/?.lua;"..package.path
+local fn, err = loadfile("/PhileOS/APIs/WM.lua", nil, setmetatable({}, {__index = _ENV}))
+local ok, err = pcall(fn)
+--if not ok then error(err) end

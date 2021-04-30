@@ -1,0 +1,8 @@
+{
+  Ryan = {
+    hash = "b7ea0821d3155c610c5ec65031169ebe3f7271866d7b5df1cb80365688c843ce",
+    permlvl = 3,
+    salt = "jm`~[",
+    iter = 100,
+  },
+}
